@@ -1,2 +1,18 @@
-# HR-Analytics-Employee-Attrition-Dashboard
-Interactive HR Analytics Dashboard built using Microsoft Power BI and Excel to analyze employee attrition, workforce trends, compensation, employee satisfaction, and workforce planning using the IBM HR Analytics Dataset.
+HR-Analytics-Employee-Attrition-Dashboard
+│
+├── README.md
+│
+├── Dashboard Screenshots
+│     ├── Executive Dashboard.png
+│     ├── Attrition Dashboard.png
+│     ├── Employee Satisfaction Dashboard.png
+│     ├── Compensation Dashboard.png
+│     └── Workforce Dashboard.png
+│
+├── Dataset
+│     └── HR Dashboard.xlsx
+│
+├── Report
+│     └── HR Analytics Project Report.pdf
+│
+└── LICENSE
